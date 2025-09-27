@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate learner and an aspiring developer
 
 ##🚀 About me
 - 🌱 Currently I'm a graduated student. I’m currently learning programming and open-source contribution. I'm currently working on new projects with the help of Ai agents.  
-- 💡 Interested in web development, automation, and new technologies.
+- 💡 Interested in web & mobile app development, automation, and new technologies.
 - 📫 How to reach me: My mail id: sunjaymuthuraj03@gmail.com
 - 🛠️ Skills & tools
 - Languages: Python, Java, Frontend languages(HTML&CSS)
