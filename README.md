@@ -8,6 +8,7 @@ Welcome to my GitHub profile! I'm a passionate learner and an aspiring developer
 - 💡 Interested in web & mobile app development, automation, and new technologies.
 - 📫 How to reach me: My mail id: sunjaymuthuraj03@gmail.com
 - 🛠️ Skills & tools
-- Languages: Java, SQL, Frontend languages(HTML&CSS)
-- Tools: Git, Github, VS Code
+- Languages: Java, SQL, Python, JavaScript, HTML&CSS
+- Frameworks: Spring, React, NextJs, ExpressJs, NodeJs, MongoDB
+- Tools: Git, Github, VS Code, AWS, 
 
